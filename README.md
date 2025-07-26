@@ -1,7 +1,7 @@
 ## Hi, I'm Graziela :)
 <table style="border: none;">
         <tr>
-                <td><p>I've always been curious about the world of technology since I was a kid. Now I'm starting my journey as a programmer and currently studying Computer Science.</p></td>
+                <td><p>I've been curious about technology since I was a kid. Today, I'm starting my journey as a programmer and currently studying Computer Science.</p></td>
                 <td><img src="gato.gif"  alt="miaw" width="150px"/></td>
         </tr>
 </table>
