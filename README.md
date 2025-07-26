@@ -1,4 +1,10 @@
-## Hi, I'm Graziela:)
+## Hi, I'm Graziela :)
+<table style="border: none;">
+        <tr>
+                <td><p>I've always been curious about the world of technology since I was a kid. Now I'm starting my journey as a programmer and currently studying Computer Science.</p></td>
+                <td><img src="gato.gif"  alt="miaw" width="150px"/></td>
+        </tr>
+</table>
 
 <div class="languages-svg">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50px">
@@ -11,15 +17,8 @@
 ##
 
 <div class="contact">
-        <a href="https://www.instagram.com/graziela.llucena" target="_blank">
-            <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-        </a>
-        <a href="mailto:grazielalucena8@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">            
-        </a>
-        <a href="https://www.linkedin.com/in/graziela-lucena-dev" target="_blank">
-            <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
+        <a href="https://www.instagram.com/graziela.llucena"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
+        <a href="mailto:grazielalucena8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/graziela-lucena-dev"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
 </div>
 
-##
