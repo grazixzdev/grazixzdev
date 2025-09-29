@@ -28,6 +28,6 @@
 <div class="contact" align="center">
         <a href="https://www.instagram.com/graziela.llucena"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
         <a href="mailto:grazielalucena8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/graziela-lucena-dev"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/grazixzdev"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
 </div>
 
