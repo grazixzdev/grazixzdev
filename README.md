@@ -1,7 +1,7 @@
 <h2>Hi, I'm Graziela :)</h2>
 
 <img src="gato.gif"  alt="miaw" width="150px" align="right"/>
-<samp>I've been curious about technology since I was a kid. Today, I'm starting my journey as a programmer and currently studying Computer Science.</samp>
+<samp>Technology has always sparked my interest, and now I am turning that curiosity into a profession. I am currently studying Computer Science.</samp>
 
 <br><br>
 
