@@ -13,6 +13,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="FLUTTER" width="50px">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JAVA" width="50px">
         <img src="https://devicon-website.vercel.app/api/spring/original.svg" alt="SPRING" width="50px">
+        <img src="https://devicon-website.vercel.app/api/mysql/original.svg" alt="SQL" width="50px">
+        <img src="https://devicon-website.vercel.app/api/postgresql/original.svg" alt="POSTGRESQL" width="50px">
 </div>
 
 ##
